@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
+  "typings": "types/index",
   "author": "Some coder <codingisnice@yopmail.com>",
   "license": "TBD",
   "private": true,
