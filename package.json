@@ -6,7 +6,6 @@
   "typings": "types/index",
   "author": "Some coder <codingisnice@yopmail.com>",
   "license": "TBD",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
