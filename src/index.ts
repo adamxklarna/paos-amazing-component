@@ -1,4 +1,4 @@
-import TestComponent from "./TestComponent"
+import { TestComponent } from "./TestComponent"
 
 export {
   TestComponent

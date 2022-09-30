@@ -4,4 +4,6 @@ const TestComponent = () => {
   return <div>Hello world!</div>
 }
 
-export default TestComponent
+export {
+  TestComponent
+}
